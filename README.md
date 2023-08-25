@@ -1,7 +1,7 @@
 # food
 
 A new Flutter project.
-# Using Getx
+# Using Getx State management
 
 ## Getting Started
 
