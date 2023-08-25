@@ -1,6 +1,7 @@
 # food
 
 A new Flutter project.
+# Using Getx
 
 ## Getting Started
 
